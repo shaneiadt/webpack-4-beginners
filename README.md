@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to webpack-4-beginners 👋</h1>
+<h1 align="center">Welcome to Webpack 4 Beginners 👋</h1>
 <p>
   <a href="https://twitter.com/shaneomoore1">
     <img alt="Twitter: shaneomoore1" src="https://img.shields.io/twitter/follow/shaneomoore1.svg?style=social" target="_blank" />
@@ -6,6 +6,10 @@
 </p>
 
 > Why are bundlers used so widely in modern web development? With this repo we will find out...oh yes we will find out!
+
+Related articles:
+
+- [Zero Config](https://shaneiadt.github.io/2019/07/29/Webpack-4-Beginners/)
 
 ## Install
 
