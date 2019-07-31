@@ -32,7 +32,7 @@ Start bundling I tells ya!
 👤 **Shane O'Moore <shaneiadt@gmail.com>**
 
 * Twitter: [@shaneomoore1](https://twitter.com/shaneomoore1)
-* Github: [@shaneiadt@gmail.com](https://github.com/shaneiadt@gmail.com)
+* Github: [@shaneiadt](https://github.com/shaneiadt@gmail.com)
 
 ## Show your support
 
