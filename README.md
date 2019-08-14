@@ -10,6 +10,7 @@
 Related articles:
 
 - [Zero Config](https://shaneiadt.github.io/2019/07/29/Webpack-4-Beginners/)
+- [A Little Config](https://shaneiadt.github.io/2019/07/31/Webpack-4-Beginners-Configuration/)
 
 ## Install
 
