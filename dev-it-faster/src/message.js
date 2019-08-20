@@ -1,0 +1,1 @@
+export default "Webpack is even awesomer with Webpack Dev Server!!!"
