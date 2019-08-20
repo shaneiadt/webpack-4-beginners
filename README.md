@@ -11,6 +11,7 @@ Related articles:
 
 - [Zero Config](https://shaneiadt.github.io/2019/07/29/Webpack-4-Beginners/)
 - [A Little Config](https://shaneiadt.github.io/2019/07/31/Webpack-4-Beginners-Configuration/)
+- [Dev IT Faster](https://shaneiadt.github.io/2019/08/19/Webpack-4-Beginners-Dev-IT-Faster/)
 
 ## Install
 
